@@ -23,3 +23,7 @@ https://pad.freifunk.net/p/hnm_vortrag
 Quellen/160518_freifunk_franken.odp - die odp eines Vortrags am Internettag der evangelischen Landeskirche Bayern 2016
 
 Quellen/Freifunk_Erlangen_2016-05-31_vFINAL.odp - die odp eines Vortrages über Freifunk in Erlangen
+
+## Setup
+
+Man braucht ein deutsches font-paket, um die Folien zu rendern: texlive-lang-german
